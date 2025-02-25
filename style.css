@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+@font-face {
+  font-family: nico mojji;
+  src: url(./assets/NicoMoji-Regular.ttf);
+}
+
+.font-nicho {
+  font-family: "Nico Moji", sans-serif;
+}
+
+.font-mulish {
+  font-family: "Mulish", serif;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.font-volkov {
+  font-family: "Volkov", serif;
+}
